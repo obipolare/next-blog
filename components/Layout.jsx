@@ -1,6 +1,6 @@
 import Head from "next/head";
-import Footer from "./partials/Footer";
-import Navbar from "./partials/navbar";
+import Footer from "./Footer";
+import Navbar from "./Navbar";
 
 const Layout = ({ title, description, children }) => {
   return (
