@@ -1,0 +1,17 @@
+.header {
+  background-color: #212121;
+}
+.nav {
+  display: flex;
+  justify-content: end;
+}
+.menu {
+  display: flex;
+}
+.item {
+  padding: 0.5rem 1rem;
+  list-style: none;
+}
+.link {
+  font-size: 1.1rem;
+}
